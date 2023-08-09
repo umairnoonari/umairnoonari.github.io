@@ -30,6 +30,6 @@ function Prime(num)
     else
     {
         console.log("not Prime")
-    }dslkdlsa
+    }jfksdjf
 }
 Prime(7)
