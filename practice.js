@@ -25,11 +25,11 @@ function Prime(num)
     }
     if(flag===true) 
     {
-        console.log(num+" is Prime")
+        console.log(num+" is Prime number")
     }
     else
     {
-        console.log(num" is not A Prime")
+        console.log(num+" is not A Prime number")
     }
 }
 Prime(7)
