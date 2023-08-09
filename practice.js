@@ -23,13 +23,13 @@ function Prime(num)
             break
         }
     }
-    if(flag===true)
+    if(flag===true) 
     {
-        console.log("Prime")
+        console.log(num+" is Prime")
     }
     else
     {
-        console.log("not Prime")
-    }jfksdjf
+        console.log(num" is not A Prime")
+    }
 }
 Prime(7)
